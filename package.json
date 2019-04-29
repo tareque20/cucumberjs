@@ -1,0 +1,24 @@
+{
+  "name": "cucumberjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js ./test/features --require ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tasfinhasan/cucumberjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tasfinhasan/cucumberjs/issues"
+  },
+  "homepage": "https://github.com/tasfinhasan/cucumberjs#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "cucumber": "^5.1.0"
+  }
+}
