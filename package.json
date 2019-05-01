@@ -19,6 +19,8 @@
   "homepage": "https://github.com/tasfinhasan/cucumberjs#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "cucumber": "^5.1.0"
+    "chromedriver": "^2.46.0",
+    "cucumber": "^5.1.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
   }
 }
